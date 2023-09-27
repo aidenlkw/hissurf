@@ -1,0 +1,26 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: darkgrey;
+  background-image: url("https://surfd.com/wp-content/uploads/2018/11/kelly-slater.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: lightyellow;
+}
+
+.surfer-profile {
+  float: left;
+  width: 200px;
+  margin:10px;
+  text-align: center;
+}
+
+.surfer-profile img {
+  max-width: 100%;
+}
